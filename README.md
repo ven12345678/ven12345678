@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 currently a Computer Science student<br>🌱 interested in web development
+🔭 Computer Science student<br>🌱 interested in software development
 
 
 # 💻 Tech Stack:
